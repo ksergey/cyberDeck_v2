@@ -8,6 +8,11 @@
   <img src="/assets/screenshot_2025-05-27_000348.png" width="512"/>
 </p>
 
+## BOM
+
+1. air40 keyboard pcb ([aliexpress](https://sl.aliexpress.ru/p?key=vaGW37x))
+2. display (добавляю ссылку потом)
+
 ## TODO
 
 1. Болты соединяющие нижнии части (минимальная толщина ~20mm, максимальная ~30mm)
